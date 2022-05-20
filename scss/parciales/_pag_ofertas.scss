@@ -1,0 +1,38 @@
+.ofertas2 {
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin-right: 150px;
+    margin-left: 150px;
+    background-color: darkgrey;
+    border-radius: 40px;
+
+}
+
+.productoOferta{
+    background-color: aquamarine;
+    flex: 1;
+    margin: 20px;
+    max-height: 400px;
+    text-align: center;
+}
+
+.imgOferta{
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.white{
+    color: white;
+   text-align: center;
+}
+
+.fondo {
+    background-image: url(./imagenes/fondo.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.fondo-gris{
+   background-color: rgba(51, 51, 51, 0.8);
+}

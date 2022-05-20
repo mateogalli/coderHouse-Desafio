@@ -1,0 +1,91 @@
+.tituloequipos{
+    margin-top: 80px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.camisetas1{
+   flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin-right: 150px;
+    margin-left: 150px;
+    background-color: darkgrey;
+    border-radius: 40px;
+    
+    
+}
+
+.barcelonaimg{
+  width: 200px;
+  height: 200px;
+}
+
+.arsenalimg{
+    width:200px;
+    height: 200px;
+  }
+
+  .liverpoolimg{
+    width: 200px;
+    height: 200px;
+  }
+
+  .arsenal{
+      max-width: 110px;
+  }
+  .barcelona{
+    max-width: 110px;
+}
+
+  .liverpool{
+ 
+    max-width: 220px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.tituloselecciones{
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+
+.camisetas2{
+     flex-direction: row;
+     display: flex;
+     justify-content: space-around;
+     padding: 20px;
+     margin-right: 150px;
+     margin-left: 150px;
+     background-color: darkgrey;
+     border-radius: 40px;
+     margin-bottom: 60px;
+    
+     
+     
+ }
+.argentinaimg{
+    width:200px;
+    height: 200px;
+}
+.brasilimg{
+    width:200px;
+    height: 200px;
+}
+.franciaimg{
+    width:170px;
+    height: 200px;
+}
+
+
+.argentina{
+    max-width: 110px;
+}
+.brasil{
+    max-width: 110px;
+}
+
+.francia{
+    max-width: 110px;
+    padding-right: 50px;
+}
