@@ -103,6 +103,7 @@ body{
     display: flex;
     justify-content: space-between;
     flex-direction: row;
+   
 
 }
 .footer{
@@ -268,10 +269,7 @@ body{
 
     }
 
-    .tituloequipos {
-        display: grid;
-        justify-content: center;
-    }
+  
 
     .tituloselecciones {
         display: grid;
@@ -314,5 +312,20 @@ body{
     max-width: 200px;
     max-height: 200px;
 }
+
+.white{
+    color: white;
+   text-align: center;
+}
+
+.fondo {
+    background-image: url(./imagenes/fondo.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.fondo-gris{
+   background-color: rgba(51, 51, 51, 0.8);
+}
+
 
 
